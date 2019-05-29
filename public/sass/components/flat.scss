@@ -1,0 +1,61 @@
+.section-flats{
+    margin: 10rem 0rem;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    
+
+    div{
+    width: 45%;
+    height:60rem;
+    background-color: azure;
+    margin: 1rem auto;
+    }
+}   
+
+
+.heading-flat{
+    width:100%;
+    margin:auto;
+    color:black;
+    margin-bottom: 5rem; 
+}
+
+.heading-flat > h1{
+    text-align: center;
+    font-size: 5rem;
+}
+
+.subheading-flat{
+    width:100%;
+    margin:auto;
+    color:black;
+    margin-bottom: 5rem; 
+}
+.subheading-flat > h1{
+    text-align: center;
+    font-size: 4rem;
+}
+.footer-flat{
+    font-size:2rem;
+    text-align: center;
+}
+.flat{
+    
+
+
+.flat-img{
+    background-image: url("https://www.realestate.com.au/blog/images/800x800-fit,progressive/2018/06/13221900/capi_d67941ed7146cda97c499f8bddd924f9_3ef8e5954af431236452caab1c38dc94.jpeg");
+    width:100%;
+    background-size: cover;
+    background-position: top;
+    position: relative;
+}
+.flat-text{
+font-size:2rem;
+}
+}

@@ -1,0 +1,29 @@
+@import "abstracts/functions";
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+
+@import "layout/header";
+@import "layout/footer";
+@import "layout/terms";
+@import "layout/navigation";
+@import "layout/info";
+@import "layout/booking";
+
+@import "components/button";
+@import "components/appartment";
+@import "components/flat";
+@import "components/map";
+@import "components/popup";
+@import "components/carousel";
+
+
+
+
+@import "pages/home";
+@import "node_modules/bootstrap/scss/bootstrap";
