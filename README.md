@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # residence_capriolo
 residence capriolo website
 
@@ -34,3 +35,6 @@ section popup
  * bestemme layout og animasjon
  * Designe knapp
  
+=======
+# casa-anita
+>>>>>>> 60c65c97efc5d7eac1cfca1472aaa8c4180075bb
